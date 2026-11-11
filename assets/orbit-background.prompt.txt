@@ -1,0 +1,6 @@
+Asset: assets/orbit-background.png
+Tool: built-in image_gen.imagegen
+Mode: new image, opaque background
+
+Final prompt:
+Create a cinematic luxury science-fiction website background, widescreen 16:9. Almost black outer space with sparse tiny stars and atmospheric subtle grain. A giant Saturn-like dark burnt-orange planet fills the right 60 percent, center at 73% horizontal and 50% vertical, with extraordinary finely detailed broad glowing copper and ivory dust rings sweeping diagonally from lower left to upper right across the entire frame. The surface is dramatic shadowed rust terracotta, a delicate bright sunlit orange crescent rim on its upper-right edge, mysterious almost black center with very subtle dusty orange cloud bands. Deep espresso black and warm charcoal palette, amber highlights, no purple, no saturated blue. Left 40 percent mostly quiet black negative space for a website heading, rings there very faint. Photorealistic astronomical cinematography, sophisticated, majestic scale, realistic scattered starlight, NASA photography aesthetic with art direction of a high-end editorial space travel poster. No humans, no spaceships, absolutely no text, no UI, no logos, no borders. Output a beautifully composed high resolution landscape raster.
